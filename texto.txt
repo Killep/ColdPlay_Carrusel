@@ -1,0 +1,6 @@
+/*
+Una relacion entre dos conuntos de datos.
+Un proceso que a cada entrada le corresponde una salida determinada
+el BUCLE NO SE PUEDE CORTAR, LA IDEA ES Q SE REPITA.
+SetInterval se cancela si cierro el browse. 
+*/
